@@ -32,3 +32,5 @@ This project involves analyzing the attendance data of employees in a software a
 - **WO** - Weekly Off
 - **ML** - Menstrual Leave
 - **HML** - Half day ML
+
+![Screenshot (378)](https://github.com/NipuniVithana/HR_Data_Analytics/assets/99274261/8ffc0fcd-9f6e-4a91-9d72-79d9db5066d5)
