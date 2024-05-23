@@ -13,6 +13,8 @@ This project involves analyzing the attendance data of employees in a software a
    - Calculate the percentage of overall sick leave.
 4. **Create a final usable dashboard.**
 
+![Screenshot (378)](https://github.com/NipuniVithana/HR_Data_Analytics/assets/99274261/8ffc0fcd-9f6e-4a91-9d72-79d9db5066d5)
+
 ## Attendance Key
 
 - **P** - Present
@@ -33,4 +35,4 @@ This project involves analyzing the attendance data of employees in a software a
 - **ML** - Menstrual Leave
 - **HML** - Half day ML
 
-![Screenshot (378)](https://github.com/NipuniVithana/HR_Data_Analytics/assets/99274261/8ffc0fcd-9f6e-4a91-9d72-79d9db5066d5)
+
